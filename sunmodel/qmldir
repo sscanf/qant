@@ -1,0 +1,2 @@
+module ea3um.laboratory.sun
+plugin SunModel

@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>RoundGauge.qml</file>
+        <file>needle.png</file>
+        <file>GraphGauge.qml</file>
+        <file>AzimutGaugeStyle.qml</file>
+        <file>moon.png</file>
+        <file>PanelButton.qml</file>
+        <file>sun.png</file>
+        <file>ListPositionsView.qml</file>
+        <file>numeric_keypad.png</file>
+    </qresource>
+</RCC>
